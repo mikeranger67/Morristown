@@ -1,6 +1,6 @@
-# morristown
+# Website about Morristown
 name: Morristown Website
 
-description: Website about the best things to do in Morristown, NJ. MIT Coding Bootcamp.
+description: This is a website I built about the best things to do in Morristown, NJ for the MIT Coding Bootcamp.
 
-roadmap: Currently about NJ, not just Morristown. Adding new content and reformmating it in the coming months.
+roadmap: I would need to build out the website and include more content and better styling
